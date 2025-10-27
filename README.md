@@ -10,4 +10,4 @@ Brute force is used by the program to find all possible plaintext, and uses the 
 Rather than calculating the frequency matrix for each shifted text, we can simply shift the frequency matrix due to the linear nature of the caesar cipher.
 
 
-Made during HKCOL
+Made during HKBCOL
